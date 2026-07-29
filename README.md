@@ -6,9 +6,10 @@ API REST Multimodal construida con FastAPI que utiliza Inteligencia Artificial p
 
 *A continuación se muestra un ejemplo de la API evaluando una imagen y devolviendo el análisis de riesgo estructurado en formato JSON:*
 
-![Demostración del resultado final](demo.png)
+<img width="1164" height="695" alt="Captura de pantalla 2026-07-28 224556" src="https://github.com/user-attachments/assets/6f119480-d5d5-4659-9ebb-c654edd587a5" />
 
-*(Nota: Asegúrate de guardar tu captura de pantalla con el nombre `demo.png` en la misma carpeta que este archivo README, o actualiza la ruta de arriba si usas otro nombre).*
+<img width="1176" height="710" alt="Captura de pantalla 2026-07-28 224544" src="https://github.com/user-attachments/assets/9c88b988-0e70-4a83-8b27-28d5222fc56f" />
+
 
 ## 🚀 Arquitectura
 Este proyecto implementa dos servicios cognitivos en cadena:
