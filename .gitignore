@@ -1,0 +1,19 @@
+# Entornos virtuales (¡Para que no suba todo el peso de las librerías!)
+.venv/
+venv/
+env/
+
+# Variables de entorno (¡NUNCA SUBIR LAS LLAVES DE AZURE A GITHUB!)
+.env
+.env.*
+
+# Caché temporal de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Archivos ocultos del Sistema Operativo
+.DS_Store
+Thumbs.db
